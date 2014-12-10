@@ -1,0 +1,71 @@
+
+@media all and (max-width: 1100px)
+{
+	.col-sm-8
+	{
+		width: 100% !important;
+	}
+	.fareEstimator iframe
+	{
+		width:100% !important;
+	}
+	
+}
+
+@media all and (max-width: 767px)
+{
+	.imageContent h1
+	{
+		font-size: 1.6em ;
+	}
+	.imageContent h2
+	{
+		font-size: 2.1em ;
+
+	}
+	.imageContent h3
+	{
+		font-size: 2.6em ;
+	}
+}
+@media all and (max-width: 650px)
+{
+	.posterImage
+	{
+		height: 50%;
+	}
+	.imageContent h1
+	{
+		font-size: 1.2em ;
+	}
+	.imageContent h2
+	{
+		font-size: 1.7em ;
+
+	}
+	.imageContent h3
+	{
+		font-size: 2.2em ;
+	}
+
+}
+@media all and (max-width: 460px)
+{
+	.posterImage
+	{
+		height: 40%;
+	}
+	.imageContent h1
+	{
+		font-size: 0.9em ;
+	}
+	.imageContent h2
+	{
+		font-size: 1.2em ;
+
+	}
+	.imageContent h3
+	{
+		font-size: 1.3em ;
+	}
+}

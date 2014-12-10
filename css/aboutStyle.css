@@ -1,0 +1,114 @@
+.slider-info1 h3 span
+{
+	color:#F1C40F;
+	font-weight: 500;
+	font-size: 2em;
+	margin-bottom: .25em;
+	
+}
+.slider-info1 p{
+	width: 90%;
+	margin: 0 auto;
+	color: white;
+	font-size: 1em;
+	line-height:1.8em;
+	word-spacing: 4px;
+}
+.slider-info1
+{
+		background-color: #7f8c8d;
+	border-radius: 15px;
+	 font-family: 'existencelight';
+	width: 75%;
+	text-align: center;
+	padding: 2em 0 2em 0;
+	margin: 2em auto 0 auto;
+	margin-bottom: .5em;
+
+}
+.slider-info1 h5
+{
+	font-size:3.2em;
+	color:#fff;
+	margin-bottom: .2em;
+}
+.contact-info1
+{
+	background-color: #7f8c8d;
+	border-radius: 15px;
+	 font-family: 'existencelight';
+	width: 65%;
+	text-align: center;
+	padding: 1em 0 1em 0;
+	margin: 1em auto 0 auto;
+	margin-bottom: .5em;
+	color: white;
+
+}
+.contact-info1 h3 span
+{
+	color:#F1C40F !important;
+	font-weight: 500;
+	font-size: 2em;
+	margin-bottom: .3em;
+	
+}
+.contact-info1 p{
+	margin: 0 auto;
+	font-size: 3em;
+	line-height:1.5em;
+	word-spacing: 4px;
+}
+.contact-info1 p a{
+	text-decoration: none;
+	color: inherit !important;
+}
+@media all and (max-width: 768px)
+{
+	.slider-info1
+	{
+		width: 85%;
+	}
+	.slider-info1 h5
+	{
+		font-size: 3.0em;
+	}
+	.slider-info1 h3 span
+	{
+		font-size: 1.8em;
+	}
+}
+@media all and (max-width: 550px)
+{
+	.slider-info1 p
+	{
+		font-size: 0.95em;
+		line-height:1.5em;
+		word-spacing: 3px;
+	}
+	.contact-info1 h3 span
+	{
+		color:#F1C40F;
+		font-weight: 300;
+		font-size: 1.5em;
+		margin-bottom: .3em;
+		
+	}
+	.contact-info1 p
+	{
+		font-size: 2.5em;
+		line-height:1.0em;
+		word-spacing: 3px;
+	}
+	.contact-info1
+	{
+		width: 72%;
+	}
+}
+@media all and (max-width: 419px)
+{
+	.contact-info1 p
+	{
+		font-size: 1.35em;
+	}
+}

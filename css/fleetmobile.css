@@ -1,0 +1,47 @@
+@media all and (max-width: 1137px)
+{
+	.wrap1
+	{
+		margin: 0 auto !important;
+		padding-left: 0px;
+
+	}
+	.mobile-no span
+	{
+		font-size: 4em;
+	}
+	.footer-logo {
+		font-size: 2.0em;
+	}
+}
+@media all and (max-width: 907px)
+{
+	.nav li a
+	{
+		font-size: .95em !important;
+		margin: 15px 3px !important;
+		padding: 0.3em !important;
+	}
+	
+}
+
+@media all and (max-width: 607px)
+{
+	.camera_thumbs_cont
+	{
+		width: 98% !important;
+		height: 70% !important;
+	}
+	.wrap1
+	{
+		margin: 3em auto !important;
+		width: 98% !important;
+	}
+	.mobile-no span
+	{
+		font-size: 2.5em;
+	}
+	.footer-logo {
+		font-size: 1.5em;
+	}
+}
